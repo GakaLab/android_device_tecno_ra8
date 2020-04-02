@@ -1,0 +1,12 @@
+mediatek.wlan.chip=CONSYS_MT6761
+mediatek.wlan.module.postfix=_consys_mt6761
+qemu.hw.mainkeys=0
+ro.frp.pst=/dev/block/platform/bootdevice/by-name/frp
+ro.mediatek.chip_ver=S01
+ro.mediatek.platform=MT6761
+ro.mtkrc.path=/vendor/etc/init/hw/
+ro.oem_unlock_supported=1
+ro.product.vendor.manufacturer=TECNO MOBILE LIMITED
+ro.product.vendor.model=RA8
+ro.product.vendor.name=H613
+ro.sf.lcd_density=480

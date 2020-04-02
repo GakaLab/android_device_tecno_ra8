@@ -1,0 +1,9 @@
+ro.mount.fs=EXT4
+ro.vendor.rc=/vendor/etc/init/hw/
+ro.oem_unlock_supported=1
+camera.disable_zsl_mode=1
+ro.reset_sys_settings.support=1
+ro.logd.kernel=false
+ro.vendor.pnpmgr.support=1
+ro.sf.lcd_density=480
+qemu.hw.mainkeys=0
